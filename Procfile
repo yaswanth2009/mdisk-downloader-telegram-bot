@@ -1,1 +1,1 @@
-Web: python3 mdiskdown.py
+web: python3 mdiskdown.py
