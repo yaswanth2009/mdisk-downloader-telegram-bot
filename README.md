@@ -26,3 +26,8 @@ and asks for your input which is your required VideoID,AudioID
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/D6ueVa?referralCode=_4oAwx)
 
+
+
+# Deploy on heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yaswanth2009/mdisk-downloader-telegram-bot)
