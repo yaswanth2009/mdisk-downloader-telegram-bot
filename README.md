@@ -32,3 +32,4 @@ You can use the bot locally by running 'main.py' or deploy using Procfile, Doker
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/D6ueVa?referralCode=_4oAwx)
 
+<a href="https://heroku.com/deploy?template=https://github.com/bipinkrish/mdisk-downloader-telegram-bot & env[SLACK_SUBDOMAIN]=testdomain"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
