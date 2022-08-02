@@ -25,4 +25,4 @@ and asks for your input which is your required VideoID,AudioID
 # Deploy
 
 
-<a href="https://heroku.com/deploy?template=https://github.com/bipinkrish/mdisk-downloader-telegram-bot & env[SLACK_SUBDOMAIN]=testdomain"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+[![Deploy To Herroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yaswanth2009/mdisk-downloader-telegram-bot)
